@@ -1,0 +1,12 @@
+h1, h2{
+    text-align: center;
+    color:blueviolet;
+    background-color: aquamarine;
+}
+
+
+p{
+    text-align:left;
+    color:rgb(153, 64, 116);
+    border: 20px;
+}
